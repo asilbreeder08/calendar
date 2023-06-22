@@ -1,0 +1,24 @@
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.exe
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.pdb
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.xml
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.DisplayAppointment.resources
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.Form1.resources
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.Resources.resources
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.vbproj.GenerateResource.Cache
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.exe
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.xml
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.pdb
+C:\Users\IT-10\Documents\Visual Studio 2008\Projects\AppoinmentSample\AppoinmentSample\bin\Debug\MySql.Data.dll
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.exe
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.xml
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.pdb
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.exe
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.pdb
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\bin\Debug\AppoinmentSample.xml
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\bin\Debug\MySql.Data.dll
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.DisplayAppointment.resources
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.Form1.resources
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.Resources.resources
+C:\Users\IT-10\Documents\emil\AppoinmentSample\AppoinmentSample\obj\Debug\AppoinmentSample.vbproj.GenerateResource.Cache
